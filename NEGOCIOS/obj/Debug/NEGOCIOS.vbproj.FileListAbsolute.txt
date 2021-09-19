@@ -1,0 +1,30 @@
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\bin\Debug\NEGOCIOS.dll
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\bin\Debug\NEGOCIOS.pdb
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\bin\Debug\NEGOCIOS.xml
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\bin\Debug\DATOS.dll
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\bin\Debug\DATOS.pdb
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\bin\Debug\DATOS.xml
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\bin\Debug\DATOS.dll.config
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.vbprojAssemblyReference.cache
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.Resources.resources
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.vbproj.GenerateResource.cache
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.vbproj.CopyComplete
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.dll
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.xml
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.pdb
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\bin\Debug\NEGOCIOS.dll
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\bin\Debug\NEGOCIOS.pdb
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\bin\Debug\NEGOCIOS.xml
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\bin\Debug\DATOS.dll
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\bin\Debug\DATOS.pdb
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\bin\Debug\DATOS.xml
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.Resources.resources
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.vbproj.GenerateResource.Cache
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.dll
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.xml
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.pdb
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\bin\Debug\DATOS.dll.config
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.vbprojAssemblyReference.cache
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.vbproj.CoreCompileInputs.cache
+F:\Programacion Aplicada\Programa\Veterinaria\NEGOCIOS\obj\Debug\NEGOCIOS.vbproj.CopyComplete

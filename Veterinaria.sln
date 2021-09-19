@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Veterinaria", "Veterinaria\Veterinaria.vbproj", "{FE96F033-9C28-4710-A244-7A7019BF98AE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DATOS", "DATOS\DATOS.vbproj", "{039684EA-009E-4645-AE47-3B60C2401601}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NEGOCIOS", "NEGOCIOS\NEGOCIOS.vbproj", "{A0104273-6005-4A9B-B081-F9EF4A2FB1B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE96F033-9C28-4710-A244-7A7019BF98AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE96F033-9C28-4710-A244-7A7019BF98AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE96F033-9C28-4710-A244-7A7019BF98AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE96F033-9C28-4710-A244-7A7019BF98AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039684EA-009E-4645-AE47-3B60C2401601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039684EA-009E-4645-AE47-3B60C2401601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039684EA-009E-4645-AE47-3B60C2401601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039684EA-009E-4645-AE47-3B60C2401601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0104273-6005-4A9B-B081-F9EF4A2FB1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0104273-6005-4A9B-B081-F9EF4A2FB1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0104273-6005-4A9B-B081-F9EF4A2FB1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0104273-6005-4A9B-B081-F9EF4A2FB1B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B4D9BB1-305F-49A5-965A-E27CD2C9A3F0}
+	EndGlobalSection
+EndGlobal

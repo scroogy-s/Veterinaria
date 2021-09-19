@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FE96F033-9C28-4710-A244-7A7019BF98AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Veterinaria.My.MyApplication</StartupObject>
+    <RootNamespace>Veterinaria</RootNamespace>
+    <AssemblyName>Veterinaria</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Veterinaria.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Veterinaria.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administracion.Designer.vb">
+      <DependentUpon>Administracion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta_Cliente.Designer.vb">
+      <DependentUpon>Alta_Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta_Pacientes.Designer.vb">
+      <DependentUpon>Alta_Pacientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Pacientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta_Veterinario.Designer.vb">
+      <DependentUpon>Alta_Veterinario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Veterinario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animales.Designer.vb">
+      <DependentUpon>Animales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Animales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta_ATP.Designer.vb">
+      <DependentUpon>Alta_ATP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_ATP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta_Animales.Designer.vb">
+      <DependentUpon>Alta_Animales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Animales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ATP.Designer.vb">
+      <DependentUpon>ATP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ATP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta_Vacunas.Designer.vb">
+      <DependentUpon>Alta_Vacunas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Vacunas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busqueda_Cliente.Designer.vb">
+      <DependentUpon>Busqueda_Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Busqueda_Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desparasitar.Designer.vb">
+      <DependentUpon>Desparasitar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desparasitar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detalle_Guarderia.Designer.vb">
+      <DependentUpon>Detalle_Guarderia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Detalle_Guarderia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eliminar_Guarderia.Designer.vb">
+      <DependentUpon>Eliminar_Guarderia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_Guarderia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ficha_Cliente.Designer.vb">
+      <DependentUpon>Ficha_Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ficha_Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ficha_Pacientes.Designer.vb">
+      <DependentUpon>Ficha_Pacientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ficha_Pacientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Historial_Guarderia.Designer.vb">
+      <DependentUpon>Historial_Guarderia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Historial_Guarderia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingresar_Guarderia.Designer.vb">
+      <DependentUpon>Ingresar_Guarderia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ingresar_Guarderia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Clientes.Designer.vb">
+      <DependentUpon>Menu_Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Principal.Designer.vb">
+      <DependentUpon>Menu_Principal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Salida_Guarderia.Designer.vb">
+      <DependentUpon>Salida_Guarderia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salida_Guarderia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vacunar.Designer.vb">
+      <DependentUpon>Vacunar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vacunar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vacunas.Designer.vb">
+      <DependentUpon>Vacunas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vacunas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vacunas_ATP.Designer.vb">
+      <DependentUpon>Vacunas_ATP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vacunas_ATP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Veterinarios.Designer.vb">
+      <DependentUpon>Veterinarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Veterinarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Administracion.resx">
+      <DependentUpon>Administracion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alta_Cliente.resx">
+      <DependentUpon>Alta_Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alta_Pacientes.resx">
+      <DependentUpon>Alta_Pacientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alta_Veterinario.resx">
+      <DependentUpon>Alta_Veterinario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animales.resx">
+      <DependentUpon>Animales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alta_ATP.resx">
+      <DependentUpon>Alta_ATP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alta_Animales.resx">
+      <DependentUpon>Alta_Animales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ATP.resx">
+      <DependentUpon>ATP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alta_Vacunas.resx">
+      <DependentUpon>Alta_Vacunas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busqueda_Cliente.resx">
+      <DependentUpon>Busqueda_Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desparasitar.resx">
+      <DependentUpon>Desparasitar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalle_Guarderia.resx">
+      <DependentUpon>Detalle_Guarderia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eliminar_Guarderia.resx">
+      <DependentUpon>Eliminar_Guarderia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ficha_Cliente.resx">
+      <DependentUpon>Ficha_Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ficha_Pacientes.resx">
+      <DependentUpon>Ficha_Pacientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Historial_Guarderia.resx">
+      <DependentUpon>Historial_Guarderia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingresar_Guarderia.resx">
+      <DependentUpon>Ingresar_Guarderia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Clientes.resx">
+      <DependentUpon>Menu_Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Principal.resx">
+      <DependentUpon>Menu_Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salida_Guarderia.resx">
+      <DependentUpon>Salida_Guarderia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vacunar.resx">
+      <DependentUpon>Vacunar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vacunas.resx">
+      <DependentUpon>Vacunas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vacunas_ATP.resx">
+      <DependentUpon>Vacunas_ATP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Veterinarios.resx">
+      <DependentUpon>Veterinarios.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NEGOCIOS\NEGOCIOS.vbproj">
+      <Project>{a0104273-6005-4a9b-b081-f9ef4a2fb1b0}</Project>
+      <Name>NEGOCIOS</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sample.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

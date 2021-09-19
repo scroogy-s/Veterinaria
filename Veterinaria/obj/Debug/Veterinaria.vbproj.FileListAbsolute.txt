@@ -1,0 +1,66 @@
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\bin\Debug\Veterinaria.xml
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\bin\Debug\NEGOCIOS.dll
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\bin\Debug\DATOS.dll
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\bin\Debug\NEGOCIOS.pdb
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\bin\Debug\NEGOCIOS.xml
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\bin\Debug\DATOS.pdb
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\bin\Debug\DATOS.xml
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\bin\Debug\DATOS.dll.config
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbprojAssemblyReference.cache
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Administracion.resources
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Alta_Vacunas.resources
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Resources.resources
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Vacunas.resources
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.GenerateResource.cache
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.CopyComplete
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\obj\Debug\Veterinaria.xml
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Menu_Principal.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.xml
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Administracion.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Alta_Vacunas.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Menu_Principal.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Resources.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Vacunas.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.GenerateResource.Cache
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\bin\Debug\Veterinaria.xml
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\bin\Debug\NEGOCIOS.dll
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\bin\Debug\DATOS.dll
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\bin\Debug\NEGOCIOS.pdb
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\bin\Debug\NEGOCIOS.xml
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\bin\Debug\DATOS.pdb
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\bin\Debug\DATOS.xml
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Alta_ATP.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.ATP.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Alta_Animales.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Animales.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Alta_Cliente.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Menu_Clientes.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\bin\Debug\DATOS.dll.config
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbprojAssemblyReference.cache
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Alta_Pacientes.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.CoreCompileInputs.cache
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.CopyComplete
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ficha_Cliente.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ficha_Pacientes.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Alta_Veterinario.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Veterinarios.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Busqueda_Cliente.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ingresar_Guarderia.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Salida_Guarderia.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Historial_Guarderia.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Detalle_Guarderia.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Eliminar_Guarderia.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Vacunas_ATP.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Desparasitar.resources
+F:\Programacion Aplicada\Programa\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Vacunar.resources

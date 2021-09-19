@@ -1,0 +1,22 @@
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\DATOS\bin\Debug\DATOS.dll
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\DATOS\bin\Debug\DATOS.pdb
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\DATOS\bin\Debug\DATOS.xml
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\DATOS\obj\Debug\DATOS.vbprojAssemblyReference.cache
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\DATOS\obj\Debug\DATOS.Resources.resources
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\DATOS\obj\Debug\DATOS.vbproj.GenerateResource.cache
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\DATOS\obj\Debug\DATOS.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\DATOS\obj\Debug\DATOS.dll
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\DATOS\obj\Debug\DATOS.xml
+C:\Users\USUARIO-PC\Documents\Visual Studio 2017\Projects\Veterinaria\DATOS\obj\Debug\DATOS.pdb
+F:\Programacion Aplicada\Programa\Veterinaria\DATOS\bin\Debug\DATOS.dll.config
+F:\Programacion Aplicada\Programa\Veterinaria\DATOS\bin\Debug\DATOS.dll
+F:\Programacion Aplicada\Programa\Veterinaria\DATOS\bin\Debug\DATOS.pdb
+F:\Programacion Aplicada\Programa\Veterinaria\DATOS\bin\Debug\DATOS.xml
+F:\Programacion Aplicada\Programa\Veterinaria\DATOS\obj\Debug\DATOS.Resources.resources
+F:\Programacion Aplicada\Programa\Veterinaria\DATOS\obj\Debug\DATOS.vbproj.GenerateResource.Cache
+F:\Programacion Aplicada\Programa\Veterinaria\DATOS\obj\Debug\DATOS.dll
+F:\Programacion Aplicada\Programa\Veterinaria\DATOS\obj\Debug\DATOS.xml
+F:\Programacion Aplicada\Programa\Veterinaria\DATOS\obj\Debug\DATOS.pdb
+F:\Programacion Aplicada\Programa\Veterinaria\DATOS\obj\Debug\DATOS.vbprojAssemblyReference.cache
+F:\Programacion Aplicada\Programa\Veterinaria\DATOS\obj\Debug\DATOS.vbproj.CoreCompileInputs.cache
